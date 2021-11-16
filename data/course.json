@@ -1,0 +1,49 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Engineering",
+      "Computer Science",
+      "Algorithms and Data Structures"
+    ],
+    [
+      "Mathematics",
+      "Applied Mathematics"
+    ],
+    [
+      "Mathematics",
+      "Probability and Statistics"
+    ],
+    [
+      "Mathematics",
+      "Discrete Mathematics"
+    ],
+    [
+      "Engineering",
+      "Computer Science",
+      "Artificial Intelligence"
+    ],
+    [
+      "Engineering",
+      "Computer Science",
+      "Data Mining"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "5538cd9e-e33c-97ad-03dc-aa446c8cbda1"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Mathematics of Machine Learning",
+  "course_description": "Broadly speaking, Machine Learning refers to the automated identification of patterns in data. As such it has been a fertile ground for new statistical and algorithmic developments. The purpose of this course is to provide a mathematically rigorous introduction to these developments with emphasis on methods and their analysis.\n\nYou can read more about Prof. Rigollet's work and courses [on his website](http://www-math.mit.edu/~rigollet/).\n",
+  "department_numbers": [
+    "18"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "18.657",
+  "learning_resource_types": [
+    "Lecture Notes"
+  ],
+  "title": "Course Metadata"
+}
